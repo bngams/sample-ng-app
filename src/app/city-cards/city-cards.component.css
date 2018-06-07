@@ -1,0 +1,20 @@
+.example-card {
+    max-width: 150px;
+    float: left;
+    margin:10px;
+  }
+  
+  .sun {
+    background-image: url('/assets/img/ico_sun.png');
+    background-size: cover;
+  }
+
+  .clouds {
+    background-image: url('/assets/img/ico_clouds.png');
+    background-size: cover;
+  }
+
+  .rain {
+    background-image: url('/assets/img/ico_rain.png');
+    background-size: cover;
+  }

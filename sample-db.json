@@ -1,0 +1,25 @@
+{
+    "cities": [
+        {
+            "id": 1,
+            "name": "toulouse",
+            "temp": "24",
+            "text": "Temps ensoleillé",
+            "ico": "sun"
+        },
+        {
+            "id": 2,
+            "name": "bordeaux",
+            "temp": "20",
+            "text": "Temps nuageux et éclaircies",
+            "ico": "clouds"
+        },
+        {
+            "id": 3,
+            "name": "paris",
+            "temp": "21",
+            "text": "Pluie",
+            "ico": "rain"
+        }
+    ]
+}

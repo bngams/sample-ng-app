@@ -1,0 +1,7 @@
+<form>
+  <mat-form-field>
+    <mat-label>City</mat-label>
+    <input matInput placeholder="Your city" [(ngModel)]="cityName" name="city-name">
+  </mat-form-field>
+  <button type="button" mat-raised-button color="primary" (click)="onSubmit()">Submit</button>
+</form>
